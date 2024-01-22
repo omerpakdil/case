@@ -44,7 +44,7 @@ Endpoint: /countries?region=
 
       Açıklama: Belli bir region'a ait ülkelerin listesini döner.
 
-### Endpoint: /countries
+Endpoint: /countries
 
       HTTP Method: POST
 
