@@ -1,4 +1,4 @@
-# Proje Adı
+# CASE
 
 Proje, Node.js ve Express kullanılarak geliştirilmiş bir web uygulamasını içerir. MongoDB veritabanı kullanılarak, "countries" ve "salesrep" adında iki ayrı endpoint uygulanmıştır.
 
