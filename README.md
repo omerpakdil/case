@@ -32,28 +32,28 @@ Uygulama varsayılan olarak http://localhost:27017 adresinde çalışacaktır.
 
 1. Countries Endpoint
    
-Endpoint: /countries
+### Endpoint: /countries
 
-HTTP Method: GET
+      HTTP Method: GET
 
-Açıklama: Tüm ülkelerin listesini almak için kullanılır.
+      Açıklama: Tüm ülkelerin listesini almak için kullanılır.
 
-Endpoint: /countries?region=
+### Endpoint: /countries?region=
 
-HTTP Method: GET
+      HTTP Method: GET
 
-Açıklama: Belli bir region'a ait ülkelerin listesini döner.
+      Açıklama: Belli bir region'a ait ülkelerin listesini döner.
 
-Endpoint: /countries
+### Endpoint: /countries
 
-HTTP Method: POST
+      HTTP Method: POST
 
-Açıklama: Ülke ve bölge oluşturmak için kullanılır.
+      Açıklama: Ülke ve bölge oluşturmak için kullanılır.
 
 2. Salesrep Endpoint
    
-Endpoint: /salesrep
+### Endpoint: /salesrep
 
-HTTP Method: GET
+      HTTP Method: GET
 
-Açıklama: Her bölge için gerekli minimum ve maksimum satış temsilcisi sayısını içeren JSON formatında bir liste döner.
+      Açıklama: Her bölge için gerekli minimum ve maksimum satış temsilcisi sayısını içeren JSON formatında bir liste döner.
