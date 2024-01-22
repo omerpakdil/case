@@ -10,6 +10,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
    ```bash
    npm install
+   ```
 
 
 
