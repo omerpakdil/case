@@ -30,15 +30,15 @@ Uygulama varsayılan olarak http://localhost:27017 adresinde çalışacaktır.
 
 ## Endpoints
 
-1. Countries Endpoint
+### 1. Countries Endpoint
    
-### Endpoint: /countries
+Endpoint: /countries
 
       HTTP Method: GET
 
       Açıklama: Tüm ülkelerin listesini almak için kullanılır.
 
-### Endpoint: /countries?region=
+Endpoint: /countries?region=
 
       HTTP Method: GET
 
@@ -50,9 +50,9 @@ Uygulama varsayılan olarak http://localhost:27017 adresinde çalışacaktır.
 
       Açıklama: Ülke ve bölge oluşturmak için kullanılır.
 
-2. Salesrep Endpoint
+### 2. Salesrep Endpoint
    
-### Endpoint: /salesrep
+Endpoint: /salesrep
 
       HTTP Method: GET
 
