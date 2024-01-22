@@ -18,6 +18,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
 MongoDB bağlantınızı config.js dosyasında yapılandırın veya ortam değişkenleri aracılığıyla sağlayın.
 
+      export MONGO_URI=mongodb://<username>:<password>@<host>:<port>/<database>
 
 Uygulamayı Başlatın
 
