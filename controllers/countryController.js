@@ -1,8 +1,6 @@
 import Country from '../models/countryModel.js';
 
 
-// create a new country
-
 const createCountry = async (req, res) => {
 
     try {
@@ -17,11 +15,10 @@ const createCountry = async (req, res) => {
     }
 }
 
-// get all countries
 
 const getCountries = async (req, res) => {
     try {
-        const region = req.query.region; // Get the region from the query parameter
+        const region = req.query.region; 
         if (region) {
             const countries = await Country.find({ region });
             res.json(countries);
